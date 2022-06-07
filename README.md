@@ -38,9 +38,11 @@ We mainly focuses on applying Python in social science, and we are very grateful
 
 ## 1 写几段简单的Python
 
-### 1.1 基础语法
+### 1.1 数据类型、基础语法
 
-### 1.2 numpy和pandas
+### 1.2 matplotlib, numpy, pandas
+
+### 1.3 函数、类
 
 
 
@@ -53,6 +55,10 @@ seaborn
 
 
 ## 3 爬虫
+
+### 3.1 html，使用api
+
+### 3.2 爬一个简单的网站
 
 BeautifulSoup
 
@@ -82,7 +88,8 @@ ntlk
 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-
+[Think Python](https://cycleuser.gitbooks.io/think-python/content/
+)
 
 ## Documentations
 
