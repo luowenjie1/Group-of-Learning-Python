@@ -14,7 +14,7 @@
 
 
 
-## 3. 不包括end
+## 3. “左闭右开”，不包括end
 
 > https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=9
 
