@@ -107,5 +107,11 @@ ntlk
 
 # Contributors
 
+Chi Xu
+
+Minghong Shen
+
 [Yizhou Ye](https://github.com/yeyzh)
+
+
 
